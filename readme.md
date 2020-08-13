@@ -1,5 +1,7 @@
 <html>
-    <h1 align="center"> Hi There 👋 </h1>
+    <h1 align="center"> Hi, I am Mehdi Jalali 👋 </h1>
+    <h3 align="center"> Back-end Developer </h3>
+    <br>
 
 - 🔭 I’m currently working on Open Source Projects
 - 🌱 I’m currently learning Laravel
