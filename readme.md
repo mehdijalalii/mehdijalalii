@@ -3,8 +3,8 @@
     <h3 align="center"> Back-end Developer </h3>
     <br>
 
-- 🔭 I’m currently working on Open Source Projects
-- 🌱 I’m currently learning Laravel
+- 🔭 I’m currently working on Open Source Projects.
+- 🌱 I’m currently learning Laravel advanced features.
 - 📫 How to reach me: 
 
      :heavy_check_mark: Email: mehdi.jalalii03@gmail.com
