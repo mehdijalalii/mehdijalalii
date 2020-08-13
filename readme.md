@@ -6,8 +6,7 @@
 - 📫 How to reach me: 
 
      :heavy_check_mark: Email: mehdi.jalalii03@gmail.com
-     :heavy_check_mark: Telegram: 
-
+      
      :heavy_check_mark: Phone: 09389701200
 
     <a href="https://github.com/mehdijalalii">
