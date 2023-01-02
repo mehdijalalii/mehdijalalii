@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning Laravel advanced features.
 - 📫 How to reach me: 
 
-     :heavy_check_mark: Email: mehdi.jalalii03@gmail.com
       
      :heavy_check_mark: Phone: 09389701200
 
