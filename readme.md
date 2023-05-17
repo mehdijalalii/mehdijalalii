@@ -3,8 +3,7 @@
     <h3 align="center"> Back-end Developer </h3>
     <br>
 
-- 🔭 I’m currently working on Open Source Projects.
-- 🌱 I’m currently learning Laravel advanced features.
+- 🌱 I’m currently learning DevOps.
 - 📫 How to reach me: 
 
       
