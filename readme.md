@@ -3,11 +3,8 @@
     <h3 align="center"> Back-end Developer </h3>
     <br>
 
-- 🌱 I’m currently learning DevOps.
 - 📫 How to reach me: 
-
-      
-     :heavy_check_mark: Phone: +989389701200
+  :heavy_check_mark: Phone: +989389701200
 
     <a href="https://github.com/mehdijalalii">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=mehdijalalii&show_icons=true&count_private=true&include_all_commits=true" /></a>
